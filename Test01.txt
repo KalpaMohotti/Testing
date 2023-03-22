@@ -1,5 +1,11 @@
 Kalpa Sandaruwan 
 Kalpa Mohotti 
-Kalpa Sandaruwan
+Kalpa Sand
 
+<<<<<<< HEAD
 This is rajitha dev
+=======
+new release update
+>>>>>>> 710287b5262fe86c4f487202ce9da2235efb3daf
+
+update here
