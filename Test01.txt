@@ -3,3 +3,4 @@ Kalpa Mohotti
 Kalpa Sandaruwan
 
 This is dev 02
+update notifications
